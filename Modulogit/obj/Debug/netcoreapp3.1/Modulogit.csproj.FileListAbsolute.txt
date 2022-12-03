@@ -1,0 +1,14 @@
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\bin\Debug\netcoreapp3.1\Modulogit.exe
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\bin\Debug\netcoreapp3.1\Modulogit.deps.json
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\bin\Debug\netcoreapp3.1\Modulogit.runtimeconfig.json
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\bin\Debug\netcoreapp3.1\Modulogit.runtimeconfig.dev.json
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\bin\Debug\netcoreapp3.1\Modulogit.dll
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\bin\Debug\netcoreapp3.1\Modulogit.pdb
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\obj\Debug\netcoreapp3.1\Modulogit.csproj.AssemblyReference.cache
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\obj\Debug\netcoreapp3.1\Modulogit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\obj\Debug\netcoreapp3.1\Modulogit.AssemblyInfoInputs.cache
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\obj\Debug\netcoreapp3.1\Modulogit.AssemblyInfo.cs
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\obj\Debug\netcoreapp3.1\Modulogit.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\obj\Debug\netcoreapp3.1\Modulogit.dll
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\obj\Debug\netcoreapp3.1\Modulogit.pdb
+C:\Users\Ryzen\source\repos\C#DevStars\Modulogit\Modulogit\obj\Debug\netcoreapp3.1\Modulogit.genruntimeconfig.cache
